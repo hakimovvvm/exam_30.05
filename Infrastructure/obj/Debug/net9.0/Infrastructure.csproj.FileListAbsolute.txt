@@ -1,0 +1,32 @@
+C:\Users\M A G A\Desktop\DotNet\Week8\Shablon EF Core\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\Users\M A G A\Desktop\DotNet\Week8\Shablon EF Core\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\Users\M A G A\Desktop\DotNet\Week8\Shablon EF Core\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\Users\M A G A\Desktop\DotNet\Week8\Shablon EF Core\Infrastructure\bin\Debug\net9.0\Domain.dll
+C:\Users\M A G A\Desktop\DotNet\Week8\Shablon EF Core\Infrastructure\bin\Debug\net9.0\Domain.pdb
+C:\Users\M A G A\Desktop\DotNet\Week8\Shablon EF Core\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\M A G A\Desktop\DotNet\Week8\Shablon EF Core\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M A G A\Desktop\DotNet\Week8\Shablon EF Core\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\M A G A\Desktop\DotNet\Week8\Shablon EF Core\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\Users\M A G A\Desktop\DotNet\Week8\Shablon EF Core\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\M A G A\Desktop\DotNet\Week8\Shablon EF Core\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\M A G A\Desktop\DotNet\Week8\Shablon EF Core\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\Users\M A G A\Desktop\DotNet\Week8\Shablon EF Core\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\Users\M A G A\Desktop\DotNet\Week8\Shablon EF Core\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\Users\M A G A\Desktop\DotNet\Week8\Shablon EF Core\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+C:\Users\M A G A\Desktop\DotNet\Week8\Shablon EF Core\Infrastructure\obj\Debug\net9.0\Infrastructure.sourcelink.json
+C:\Users\M A G A\Desktop\DotNet\Week8\Exam_30.05\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+C:\Users\M A G A\Desktop\DotNet\Week8\Exam_30.05\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+C:\Users\M A G A\Desktop\DotNet\Week8\Exam_30.05\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+C:\Users\M A G A\Desktop\DotNet\Week8\Exam_30.05\Infrastructure\bin\Debug\net9.0\Domain.dll
+C:\Users\M A G A\Desktop\DotNet\Week8\Exam_30.05\Infrastructure\bin\Debug\net9.0\Domain.pdb
+C:\Users\M A G A\Desktop\DotNet\Week8\Exam_30.05\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\M A G A\Desktop\DotNet\Week8\Exam_30.05\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M A G A\Desktop\DotNet\Week8\Exam_30.05\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\M A G A\Desktop\DotNet\Week8\Exam_30.05\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+C:\Users\M A G A\Desktop\DotNet\Week8\Exam_30.05\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\M A G A\Desktop\DotNet\Week8\Exam_30.05\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\M A G A\Desktop\DotNet\Week8\Exam_30.05\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+C:\Users\M A G A\Desktop\DotNet\Week8\Exam_30.05\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+C:\Users\M A G A\Desktop\DotNet\Week8\Exam_30.05\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+C:\Users\M A G A\Desktop\DotNet\Week8\Exam_30.05\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+C:\Users\M A G A\Desktop\DotNet\Week8\Exam_30.05\Infrastructure\obj\Debug\net9.0\Infrastructure.sourcelink.json

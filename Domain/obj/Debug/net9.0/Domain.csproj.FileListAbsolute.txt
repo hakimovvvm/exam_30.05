@@ -1,0 +1,24 @@
+C:\Users\M A G A\Desktop\DotNet\Week8\Shablon EF Core\Domain\bin\Debug\net9.0\Domain.deps.json
+C:\Users\M A G A\Desktop\DotNet\Week8\Shablon EF Core\Domain\bin\Debug\net9.0\Domain.dll
+C:\Users\M A G A\Desktop\DotNet\Week8\Shablon EF Core\Domain\bin\Debug\net9.0\Domain.pdb
+C:\Users\M A G A\Desktop\DotNet\Week8\Shablon EF Core\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M A G A\Desktop\DotNet\Week8\Shablon EF Core\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+C:\Users\M A G A\Desktop\DotNet\Week8\Shablon EF Core\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+C:\Users\M A G A\Desktop\DotNet\Week8\Shablon EF Core\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\M A G A\Desktop\DotNet\Week8\Shablon EF Core\Domain\obj\Debug\net9.0\Domain.dll
+C:\Users\M A G A\Desktop\DotNet\Week8\Shablon EF Core\Domain\obj\Debug\net9.0\refint\Domain.dll
+C:\Users\M A G A\Desktop\DotNet\Week8\Shablon EF Core\Domain\obj\Debug\net9.0\Domain.pdb
+C:\Users\M A G A\Desktop\DotNet\Week8\Shablon EF Core\Domain\obj\Debug\net9.0\ref\Domain.dll
+C:\Users\M A G A\Desktop\DotNet\Week8\Shablon EF Core\Domain\obj\Debug\net9.0\Domain.sourcelink.json
+C:\Users\M A G A\Desktop\DotNet\Week8\Exam_30.05\Domain\bin\Debug\net9.0\Domain.deps.json
+C:\Users\M A G A\Desktop\DotNet\Week8\Exam_30.05\Domain\bin\Debug\net9.0\Domain.dll
+C:\Users\M A G A\Desktop\DotNet\Week8\Exam_30.05\Domain\bin\Debug\net9.0\Domain.pdb
+C:\Users\M A G A\Desktop\DotNet\Week8\Exam_30.05\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M A G A\Desktop\DotNet\Week8\Exam_30.05\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+C:\Users\M A G A\Desktop\DotNet\Week8\Exam_30.05\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+C:\Users\M A G A\Desktop\DotNet\Week8\Exam_30.05\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\M A G A\Desktop\DotNet\Week8\Exam_30.05\Domain\obj\Debug\net9.0\Domain.dll
+C:\Users\M A G A\Desktop\DotNet\Week8\Exam_30.05\Domain\obj\Debug\net9.0\refint\Domain.dll
+C:\Users\M A G A\Desktop\DotNet\Week8\Exam_30.05\Domain\obj\Debug\net9.0\Domain.pdb
+C:\Users\M A G A\Desktop\DotNet\Week8\Exam_30.05\Domain\obj\Debug\net9.0\ref\Domain.dll
+C:\Users\M A G A\Desktop\DotNet\Week8\Exam_30.05\Domain\obj\Debug\net9.0\Domain.sourcelink.json
